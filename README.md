@@ -23,6 +23,7 @@ A React-based calendar application with drag-and-drop functionality for scheduli
 
     ```bash
     npm install
+    npm i react-dnd react-dnd-html5-backend @emotion/react @emotion/styled @mui/material
     ```
 
 3. **Start the development server:**
@@ -52,3 +53,14 @@ A React-based calendar application with drag-and-drop functionality for scheduli
 1. Click and hold an event to drag it.
 2. Move the event to the desired day and time cell.
 3. Release the mouse button to drop the event in the new cell.
+
+
+
+
+## Screenshots
+
+![Calendar View](screenshots/calendar.png)
+*Screenshot of the main calendar view.*
+
+![Event Form](screenshots/form.png)
+*Screenshot of the event form.*
