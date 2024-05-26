@@ -17,3 +17,38 @@ A React-based calendar application with drag-and-drop functionality for scheduli
    ```bash
    git clone https://github.com/ayushtiwari31/react-drag-and-drop-calendar.git
    cd react-drag-and-drop-calendar
+
+
+2. **Install dependencies:**
+
+    ```bash
+    npm install
+    ```
+
+3. **Start the development server:**
+
+    ```bash
+    npm start
+    ```
+
+4. **Open your browser:**
+    Navigate to [http://localhost:3000](http://localhost:3000) to see the calendar application.
+
+## Usage
+
+### Adding an Event
+
+1. Click on any calendar cell corresponding to a day and time.
+2. Fill in the event title in the popup form.
+3. Click "Submit" to add the event to the calendar.
+
+### Deleting an Event
+
+1. Click on an event within the calendar cell.
+2. Confirm the deletion in the popup dialog.
+
+### Dragging and Dropping an Event
+
+1. Click and hold an event to drag it.
+2. Move the event to the desired day and time cell.
+3. Release the mouse button to drop the event in the new cell.
