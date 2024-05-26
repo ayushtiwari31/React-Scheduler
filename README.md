@@ -35,6 +35,12 @@ A React-based calendar application with drag-and-drop functionality for scheduli
 4. **Open your browser:**
     Navigate to [http://localhost:3000](http://localhost:3000) to see the calendar application.
 
+
+## Hosted Application
+
+You can view the hosted application at: [https://react-scheduler-one.vercel.app/](https://react-scheduler-one.vercel.app/)
+
+
 ## Usage
 
 ### Adding an Event
