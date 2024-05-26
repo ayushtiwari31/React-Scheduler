@@ -60,7 +60,10 @@ A React-based calendar application with drag-and-drop functionality for scheduli
 ## Screenshots
 
 ![Calendar View](screenshots/calendar.png)
+
 *Screenshot of the main calendar view.*
 
+
 ![Event Form](screenshots/form.png)
+
 *Screenshot of the event form.*
