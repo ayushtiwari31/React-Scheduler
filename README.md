@@ -15,7 +15,7 @@ A React-based calendar application with drag-and-drop functionality for scheduli
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/ayushtiwari31/react-drag-and-drop-calendar.git
+   git clone https://github.com/ayushtiwari31/React-Scheduler.git
    cd react-drag-and-drop-calendar
 
 
