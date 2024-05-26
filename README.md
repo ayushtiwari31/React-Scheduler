@@ -77,16 +77,16 @@ You can view the hosted application at: [https://react-scheduler-one.vercel.app/
 
 ## Assignment Reflection
 
-### 3 Things I Learned from this Assignment
+### 1). 3 Things I Learned from this Assignment
 
 1. **State Management**: Handling complex state management with nested data structures in React.
 2. **Drag-and-Drop Implementation**: Using the `react-dnd` library to implement drag-and-drop functionality.
 3. **Material-UI Integration**: Integrating and customizing Material-UI components within a React application.
 
-### The Most Difficult Part of the Assignment
+### 2). The Most Difficult Part of the Assignment
 
 The most challenging part was implementing the drag-and-drop functionality for events, ensuring that events could be moved across different days and times without losing their data integrity.
 
-### What I Would Have Done Differently Given More Time
+### 3). What I Would Have Done Differently Given More Time
 
 Given more time, I would have tried to implement additional features such as recurring events, a weekly view for more detailed scheduling, the ability to edit existing events directly within the calendar and to send notifications to user about the events.
